@@ -6,7 +6,10 @@ Conceptos de la clase
 
 La tarjeta madre también conocida como placa madre, placa base o motherboard (en inglés), es la tarjeta principal en la estructura interna del computador donde se encuentran los circuitos electrónicos, el procesador, las memorias, y las conexiones principales, en ella se conectan todos los componentes del computador.
 
-[]
+<p align="center">
+  <img src="TarjetaMadre.png" width="350" title="hover text">
+  <img src="TarjetaMadre.png" alt="accessibility text">
+</p>
 
 Esta tarjeta tiene como función principal controlar todos los elementos del servidor, de ella depende que dichos componentes estén bien comunicados unos de otros para garantizar el funcionamiento del sistema, es por eso que es un dispositivo muy importante dentro del computador.
 
