@@ -1,6 +1,6 @@
 # INNOVACCIÓN - Semana 1
 
-Conceptos de la clase
+Conceptos de la clase.
 
 ## Tarjeta madre
 
